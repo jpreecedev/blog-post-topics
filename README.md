@@ -34,4 +34,4 @@ This document is intended to be a brain dump of ideas for good blog posts or You
 
 ## Functional Programming
 - [ ] Currying
-- [ ] Piping, composition
+- [ ] Pipe & compose
