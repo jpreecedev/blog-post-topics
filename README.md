@@ -1,4 +1,5 @@
 # Topics of discussion for DeveloperHandbook.com blog
+This document is intended to be a brain dump of ideas for good blog posts or YouTube videos that could be produced by myself in the future.  Should you have any suggestions/ideas, please raise an issue or maybe even submit a pull request!
 
 ## General
 - [ ] Webpack 4/React/Redux/Jest/Babel 7 boilerplate
