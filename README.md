@@ -8,6 +8,7 @@
 - [ ] Decorators in JavaScript explained
 - [ ] My favourite JavaScript quirks
 - [ ] Hands on with Async/Await in JavaScript
+- [ ] When REALLY to use `var`, `const`, `let`, and fat arrow functions
 
 ## React
 - [ ] Getting started with React Context API?
