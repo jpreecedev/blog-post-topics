@@ -14,6 +14,7 @@ This document is intended to be a brain dump of ideas for good blog posts or You
 - [ ] My favourite JavaScript quirks ([link](General/6-My-Favourite-JavaScript-Quirks.md))
 - [ ] Hands on with Async/Await in JavaScript ([link](General/7-Hands-on-with-async-await.md))
 - [ ] When REALLY to use `var`, `const`, `let`, and fat arrow functions ([link](General/8-When-to-really-use-const-let.md))
+- [ ] An explanation of event delegation in JavaScript ([link](General/9-Event-delegation-in-JavaScript.md))
 
 ## React
 
@@ -41,7 +42,7 @@ This document is intended to be a brain dump of ideas for good blog posts or You
 
 ## Computer Science / Patterns
 
-- [ ] Understanding Big O Notation ([link](ComputerScience-Patterns/1-Understanding-big-o-notation.md))
+- [ ] Understanding Big O Notation with tree data structures ([link](ComputerScience-Patterns/1-Understanding-big-o-notation.md))
 - [ ] Practical stack and queue examples ([link](ComputerScience-Patterns/2-Practical-stack-queue-examples.md))
 - [ ] When to use the factory pattern and why it still matters ([link](ComputerScience-Patterns/3-When-why-factory-pattern.md))
 - [ ] A high level look at blockchain ([link](ComputerScience-Patterns/4-High-level-look-blockchain.md))
