@@ -7,4 +7,4 @@
 - [x] Contributing
 - [x] Summary
 
-This post was published on 22nd September. [A bare bones React boilerplate, featuring Webpack 4, React, Redux, Jest, and Babel 7](https://www.developerhandbook.com/webpack/react-redux-babel-jest-webpack-starter-template/)
+This post was published on 22nd September 2018. [A bare bones React boilerplate, featuring Webpack 4, React, Redux, Jest, and Babel 7](https://www.developerhandbook.com/webpack/react-redux-babel-jest-webpack-starter-template/)
