@@ -15,6 +15,7 @@ This document is intended to be a brain dump of ideas for good blog posts or You
 - [ ] Hands on with Async/Await in JavaScript ([link](General/7-Hands-on-with-async-await.md))
 - [ ] When REALLY to use `var`, `const`, `let`, and fat arrow functions ([link](General/8-When-to-really-use-const-let.md))
 - [ ] An explanation of event delegation in JavaScript ([link](General/9-Event-delegation-in-JavaScript.md))
+- [ ] How to build and deploy a static website to AWS using Gatsby ([link](General/10-Build-Static-Site-Gatsby-Deploy-AWS.md))
 
 ## React
 
