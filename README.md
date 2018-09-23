@@ -6,7 +6,7 @@ This document is intended to be a brain dump of ideas for good blog posts or You
 
 ## General
 
-- [ ] A bare bones React boilerplate, featuring Webpack 4, React, Redux, Jest, and Babel 7 ([link](General/1-Bare-Bones-React-Boilerplate.md))
+- [x] A bare bones React boilerplate, featuring Webpack 4, React, Redux, Jest, and Babel 7 ([link](General/1-Bare-Bones-React-Boilerplate.md))
 - [ ] Create a progressive web app (PWA) with Google's workbox ([link](General/2-Create-PWA-With-Google-Workbox.md))
 - [ ] Write more scalable, robust JavaScript applications with TypeScript ([link](General/3-Write-scalable-JavaScript-with-TypeScript.md))
 - [ ] A beginners guide to Puppeteer from Google ([link](General/4-Beginners-Guide-To-Puppeteer.md))
