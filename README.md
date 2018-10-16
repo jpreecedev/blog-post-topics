@@ -22,7 +22,7 @@ This document is intended to be a brain dump of ideas for good blog posts or You
 - [ ] Getting started with React Context API ([link](React/1-Getting-started-React-Context-API.md))
 - [ ] Getting started with Redux ([link](React/2-Getting-started-Redux.md))
 - [ ] Getting started with MobX ([link](React/3-Getting-started-MobX.md))
-- [ ] Managing state in modern React applications ([link](React/4-Managing-state-modern-React-apps.md))
+- [x] Managing state in modern React applications ([link](React/4-Managing-state-modern-React-apps.md))
 - [ ] How any why to extract React from your JavaScript bundles ([link](React/5-How-why-extract-React-Webpack.md))
 - [ ] How to Multi-variant test (MVT) React applications ([link](React/6-How-to-MVT-React-apps.md))
 
