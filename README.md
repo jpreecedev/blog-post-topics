@@ -25,6 +25,7 @@ This document is intended to be a brain dump of ideas for good blog posts or You
 - [x] Managing state in modern React applications ([link](React/4-Managing-state-modern-React-apps.md))
 - [ ] How any why to extract React from your JavaScript bundles ([link](React/5-How-why-extract-React-Webpack.md))
 - [ ] How to Multi-variant test (MVT) React applications ([link](React/6-How-to-MVT-React-apps.md))
+- [ ] Sharing state between multiple React applications ([link](React/7-Sharing-state-between-multiple-React-applications.md))
 
 ## Functional Programming
 
