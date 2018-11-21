@@ -16,6 +16,7 @@ This document is intended to be a brain dump of ideas for good blog posts or You
 - [ ] When REALLY to use `var`, `const`, `let`, and fat arrow functions ([link](General/8-When-to-really-use-const-let.md))
 - [ ] An explanation of event delegation in JavaScript ([link](General/9-Event-delegation-in-JavaScript.md))
 - [ ] How to build and deploy a static website to AWS using Gatsby ([link](General/10-Build-Static-Site-Gatsby-Deploy-AWS.md))
+- [x] Microservices on the front-end - Building front-end apps that scale ([link](General/11-Microservices-on-the-front-end.md))
 
 ## React
 
